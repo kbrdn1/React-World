@@ -1,4 +1,5 @@
 # ReatWorld - ReactJS Project
+<img alt="img" width="300px" src="https://kylian-bardini.fr/assets/img/reactworld.jpg" />
 
 ## Introduction
 
